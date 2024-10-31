@@ -6,4 +6,4 @@ Ce projet a pour objectif de retrouver des informations en utilisant des techniq
 
 ###### Flag Final
 
-Le flag encodé en Base64 est le suivant : ctf-1-1{aGVsbG83d2VsY29t}
+hihihi! ctf-1-1{c3VwcGVyX3N1Y2Nlc3M=}

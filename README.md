@@ -2,11 +2,8 @@
 
 ### Projet Secret
 
-Ce projet a pour but d'améliorer les protocoles de sécurité réseau. Pour plus de détails, référez-vous au fichier `flag_part.txt`.
+Ce projet a pour objectif de retrouver des informations en utilisant des techniques OSINT.
 
-**Partie du flag :** CTF-1-{he2l0_...}
+###### Flag Final
 
-## Instructions
-
-- Analysez les fichiers fournis.
-- Suivez les étapes pour trouver le flag final.
+Le flag encodé en Base64 est le suivant : ctf-1-1{aGVsbG83d2VsY29t}
